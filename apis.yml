@@ -1,6 +1,5 @@
 aid: indie-hackers
-url: 
-  https://raw.githubusercontent.com/api-evangelist/indie-hackers/refs/heads/main/apis.yml
+url: https://raw.githubusercontent.com/api-evangelist/indie-hackers/refs/heads/main/apis.yml
 apis:
   - aid: indie-hackers:indie-hackers-api
     name: Indie Hackers API
@@ -8,8 +7,7 @@ apis:
       - Community
       - Founders
       - Startups
-    image: 
-      https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+    image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
     baseURL: https://www.indiehackers.com
     humanURL: https://www.indiehackers.com/group/developers
     properties:
@@ -24,12 +22,11 @@ apis:
       builders working toward profitable, independent online businesses.
 name: Indie Hackers
 tags:
-  - Startups
   - Community
   - Entrepreneurship
+  - Startups
 type: Index
-image: 
-  https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 access: 3rd-Party
 common:
   - url: https://www.indiehackers.com/
@@ -59,8 +56,7 @@ common:
   - url: https://www.indiehackers.com/privacy
     name: Privacy Policy
     type: PrivacyPolicy
-  - url: 
-      https://www.indiehackers.com/post/terms-and-conditions-and-privacy-policy-3d2fc45ffd
+  - url: https://www.indiehackers.com/post/terms-and-conditions-and-privacy-policy-3d2fc45ffd
     name: Community Guidelines
     type: Guidelines
   - url: https://twitter.com/indiehackers
