@@ -7,7 +7,7 @@ apis:
       - Community
       - Founders
       - Startups
-    image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+    image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
     baseURL: https://www.indiehackers.com
     humanURL: https://www.indiehackers.com/group/developers
     properties:
@@ -26,7 +26,7 @@ tags:
   - Entrepreneurship
   - Startups
 type: Index
-image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 access: 3rd-Party
 common:
   - type: LinkedIn
