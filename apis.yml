@@ -29,6 +29,8 @@ type: Index
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 access: 3rd-Party
 common:
+  - type: DomainSecurity
+    url: security/indie-hackers-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/indie-hackers
   - url: https://www.indiehackers.com/
